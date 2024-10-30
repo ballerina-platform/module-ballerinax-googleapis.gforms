@@ -2,13 +2,15 @@
 
 The `ballerinax/googleapis.gforms` connector provides practical examples illustrating usage in various scenarios.
 
-[//]: # (TODO: Add examples)
-1. 
-2. 
+1. Create a Google Form
+2. Retrieve responses from a Google Form
+3. Update a Google Form
 
 ## Prerequisites
 
-[//]: # (TODO: Add prerequisites)
+1. Obtain OAuth 2.0 credentials from the Google Cloud Console.
+2. Enable the Google Forms API for your project.
+3. Download the OAuth 2.0 client ID JSON file and add it to your Ballerina project.
 
 ## Running an example
 
